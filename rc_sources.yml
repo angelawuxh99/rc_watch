@@ -1,0 +1,7 @@
+# Add Regional Center sources here using Regional Center ID as key
+# Example:
+#
+# ID1031910052:
+#   urls:
+#     - "https://example.com/projects"
+#     - "https://example.com/news"
